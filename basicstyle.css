@@ -29,6 +29,17 @@ h2{
 	text-align: center;
 }
 
+#biobox{
+	font-size: 12pt;
+	margin: auto;
+	border-color: blue;
+	padding: 20px;
+	width: 350px;
+	border-style: dotted;
+	text-align: left;
+
+}
+
 .bold{
 	font-weight: bold;
 }
@@ -36,6 +47,10 @@ h2{
 img{
 	display: block;
 	margin: auto;
+}
+
+.center{
+	text-align: center;
 }
 
 
