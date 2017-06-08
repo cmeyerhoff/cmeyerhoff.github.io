@@ -1,17 +1,26 @@
 body{
-	background-color: white;
 	font-size: 14pt;
 }
 
 h1{
-	font-size: 16pt;
+	font-size: 18pt;
 	text-align: center;
 }
+
 #linkbox{
 	font-size: 12pt;
-	border-color: black;
+	margin: auto;
+	border-color: red;
+	padding: 20px;
+	width: 200px;
 	border-style: dotted;
 	text-align: center;
+}
+
+img{
+	display: block;
+	margin: auto;
+
 }
 
 
