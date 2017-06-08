@@ -1,4 +1,18 @@
 body{
-	background-color: silver;
-	font-size: 20pt;
+	background-color: white;
+	font-size: 14pt;
 }
+
+h1{
+	font-size: 16pt;
+	text-align: center;
+}
+#linkbox{
+	font-size: 12pt;
+	border-color: black;
+	border-style: dotted;
+	text-align: center;
+}
+
+
+
